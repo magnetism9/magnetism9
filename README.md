@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6B35,FF8C00&height=200&section=header&text=구자성&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fire%20Electrical%20Designer&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6B35,FF8C00&height=200&section=header&text=구자성&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fire%20Electrical%20Designer%20%7C%20Updated%202026.06.02&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/magnetism9">
@@ -159,5 +159,7 @@ Focus    : 소방 전기 설계 & 안전 시스템 구축
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6B35,FF8C00&height=120&section=footer&animation=fadeIn" />
 
 <sub>🔥 안전한 세상을 설계합니다 | Designing a Safer World 🛡️</sub>
+
+<sub>Last Updated: 2026년 6월 2일</sub>
 
 </div>
